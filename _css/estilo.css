@@ -161,7 +161,7 @@ header#cabecalho-artigo h1 {
     margin-top: 0px;
 }
 
-.doreita {
+.direita {
     text-align: right;
 }
 
@@ -175,6 +175,10 @@ header#cabecalho-artigo h2 {
 header#cabecalho-artigo h3 {
     font-size: 12px;
     color: #606060;
+}
+
+video#filme1 {
+    width: 500px;
 }
 
 /*configuração tabela*/
